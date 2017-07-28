@@ -15,6 +15,7 @@ NodeJs v8.0.0
 
 初始化
 =============================
+```
 git clone git@github.com:wangmingle/udesk_im_demo.git
 
 cd ./udesk_im_deom
@@ -24,6 +25,7 @@ npm instal node-dev -g
 npm install
 
 export PORTAL_VERSION=development && npm start
+```
 
 浏览器打开
 =============================
@@ -44,3 +46,7 @@ confing/default.json
     "secret": "KEY 获取位置【管理中心-即时通讯-消息接口接入-KEY】"
 }
 ```
+
+配置说明
+=============================
+![效果图](./udesk_demo.png)
