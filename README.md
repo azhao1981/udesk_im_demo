@@ -28,3 +28,16 @@ export PORTAL_VERSION=development && npm start
 浏览器打开
 =============================
 http://localhost:3001/
+
+
+
+配置说明
+=============================
+confing/default.json
+{
+    "company_domain": "当前公司的域名",
+    "company_code": "公司code 获取位置【管理中心-即时通讯-网页插件-管理/code】",
+    "web_plugin_id": "插件ID 获取位置【管理中心-即时通讯-网页插件-管理/web_plugin_id】",
+    "im_user_key": "KEY 获取位置【管理中心-即时通讯-网页插件-管理/添加客户信息中的KEY】",
+    "secret": "KEY 获取位置【管理中心-即时通讯-消息接口接入-KEY】"
+}
