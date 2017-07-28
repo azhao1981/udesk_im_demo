@@ -6,6 +6,7 @@
 Demo模块
 =============================
 1、IM网页插件 Demo
+
 2、微信API Demo
 
 运行环境
@@ -19,6 +20,7 @@ git clone git@github.com:wangmingle/udesk_im_demo.git
 cd ./udesk_im_deom
 
 npm instal node-dev -g
+
 npm install
 
 export PORTAL_VERSION=development && npm start
