@@ -17,4 +17,4 @@ config/property/192.168.1.52.property.yml
 /log/*
 /tmp
 .vscode/
-./config/test.json
+/config/test.json
